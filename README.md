@@ -1,1 +1,3 @@
-> ⚠️ **Warning:** This configuration is now partially implemented in my [NixOs Config](https://github.com/donatomartin/nix-config)
+My personal and portable tmux configuration.
+
+This repo is a submodule for my stow dotfiles: https://github.com/donatomartin/dotfiles
