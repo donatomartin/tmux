@@ -1,3 +1,7 @@
 My personal and portable tmux configuration.
 
-This repo is a submodule for my stow dotfiles: https://github.com/donatomartin/dotfiles
+Install with the following command on your Linux Shell:
+
+```sh
+git clone https://github.com/donatomartin/tmux.git ~/.config/tmux
+```
